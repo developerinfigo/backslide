@@ -11,4 +11,4 @@ parts:
   git-ddiff:
     source: https://github.com/cookiengineer/git-ddiff.git
     plugin: nodejs
-    node-engine: '8.9.4'
+    node-engine: '7.10.1'
