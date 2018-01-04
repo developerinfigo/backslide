@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://queerlon.files.wordpress.com/2012/03/g-1.jpg" alt="git-ddiff">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Font_B.svg/439px-Font_B.svg.png" alt="backslide">
   <br />
-  git-ddiff
+  backslide
 </h1>
 
-<p align="center"><b>This is the snap for [git-ddiff]</b>, <i>":clock10: git ddiff - a better git diff for humans with lack of memory"</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
+<p align="center"><b>This is the snap for [backslide]</b>, <i>"CLI tool for making HTML presentations with Remark.js using Markdown https://sinedied.github.io/backslide"</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
 distributions.</p>
 
 <!-- Uncomment and modify this when you are provided a build status badge
@@ -15,13 +15,12 @@ distributions.</p>
 
 ## Install
 
-    sudo snap install my-snap-name
+    sudo snap install backslide --edge --devmode
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
-<!-- Uncomment and modify this when you have a screenshot
-![my-snap-name](screenshot.png?raw=true "my-snap-name")
--->
+Uncomment and modify this when you have a screenshot
+![backslide](screenshot.png?raw=true "backslide")
 
 <p align="center">Published for <img src="http://anything.codes/slack-emoji-for-techies/emoji/tux.png" align="top" width="24" /> with :gift_heart: by Snapcrafters</p>
 
@@ -38,10 +37,10 @@ upstream so [Project] can authoritatively publish future releases.
   - [x] Update logos and references to `[Project]` and `[my-snap-name]`
   - [x] Create a snap that runs in `devmode`
   - [x] Register the snap in the store, **using the preferred upstream name**
-  - [ ] Add a screenshot to this `README.md`
-  - [ ] Publish the `devmode` snap in the Snap store edge channel
-  - [ ] Add install instructions to this `README.md`
-  - [ ] Update snap store metadata, icons and screenshots
+  - [x] Add a screenshot to this `README.md`
+  - [x] Publish the `devmode` snap in the Snap store edge channel
+  - [x] Add install instructions to this `README.md`
+  - [x] Update snap store metadata, icons and screenshots
   - [ ] Convert the snap to `strict` confinement, or `classic` confinement if it qualifies
   - [ ] Publish the confined snap in the Snap store beta channel
   - [ ] Update the install instructions in this `README.md`
