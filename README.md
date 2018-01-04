@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Font_B.svg/439px-Font_B.svg.png" alt="backslide">
+  <img src="http://storereturnpolicy.com/wp-content/uploads/2017/03/b.jpg" alt="backslide">
   <br />
   backslide
 </h1>
@@ -19,7 +19,6 @@ distributions.</p>
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
-Uncomment and modify this when you have a screenshot
 ![backslide](screenshot.png?raw=true "backslide")
 
 <p align="center">Published for <img src="http://anything.codes/slack-emoji-for-techies/emoji/tux.png" align="top" width="24" /> with :gift_heart: by Snapcrafters</p>
