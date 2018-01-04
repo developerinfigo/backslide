@@ -1,15 +1,14 @@
-name: git-ddiff
-version: '1.0.2'
-summary: https://github.com/cookiengineer/git-ddiff
+name: backslide
+version: '1.0.0'
+summary: https://github.com/sinedied/backslide
 description: |
-  git ddiff - a better git diff for humans with lack of memory
+  CLI tool for making HTML presentations with Remark.js using Markdown https://sinedied.github.io/backslide
 grade: devel
 confinement: devmode
 apps:
-  git-ddiff:
-    command: git-ddiff
+  backslide:
+    command: bs
 parts:
-  git-ddiff:
-    source: https://github.com/cookiengineer/git-ddiff.git
+  backslide:
+    source: https://github.com/sinedied/backslide.git
     plugin: nodejs
-    node-engine: '9.3.0'
