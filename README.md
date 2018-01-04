@@ -22,6 +22,8 @@ distributions.</p>
 Find Usage Instructions by running command:
 
     backslide
+    
+Please note that bs refers to backslide
 
 ![backslide](screenshot.png?raw=true "backslide")
 
