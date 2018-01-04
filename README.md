@@ -6,9 +6,6 @@
 
 <p align="center"><b>This is the snap for backslide</b>, <i>"CLI tool for making HTML presentations with Remark.js using Markdown https://sinedied.github.io/backslide"</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
 distributions.</p>
-Find Usage Instrucktions by running command:
-
-    backslide
 
 <!-- Uncomment and modify this when you are provided a build status badge
 <p align="center">
@@ -21,6 +18,10 @@ Find Usage Instrucktions by running command:
     sudo snap install backslide --beta
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
+
+Find Usage Instructions by running command:
+
+    backslide
 
 ![backslide](screenshot.png?raw=true "backslide")
 
