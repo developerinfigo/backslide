@@ -3,6 +3,7 @@ version: '1.0.0'
 summary: https://github.com/cookiengineer/git-ddiff
 description: |
   git ddiff - a better git diff for humans with lack of memory
+grade: devel
 confinement: devmode
 apps:
   git-ddiff:
