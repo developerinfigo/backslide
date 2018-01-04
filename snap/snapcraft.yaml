@@ -1,10 +1,10 @@
 name: backslide
-version: '1.0.0'
+version: '1.0.1'
 summary: https://github.com/sinedied/backslide
 description: |
   CLI tool for making HTML presentations with Remark.js using Markdown https://sinedied.github.io/backslide
-grade: devel
-confinement: devmode
+grade: stable
+confinement: strict
 apps:
   backslide:
     command: bs
