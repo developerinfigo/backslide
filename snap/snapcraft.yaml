@@ -4,7 +4,7 @@ summary: https://github.com/sinedied/backslide
 description: |
   CLI tool for making HTML presentations with Remark.js using Markdown https://sinedied.github.io/backslide
 grade: stable
-confinement: strict
+confinement: classic
 apps:
   backslide:
     command: bs
