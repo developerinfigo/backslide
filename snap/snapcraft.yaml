@@ -8,7 +8,6 @@ confinement: classic
 apps:
   backslide:
     command: bs
-    plugs: [home,network,network-bind]
 parts:
   backslide:
     source: https://github.com/sinedied/backslide.git
