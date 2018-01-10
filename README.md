@@ -23,11 +23,16 @@ Find Usage Instructions by running command:
 
     backslide
     
+<script src="https://liberapay.com/omairqazi/widgets/button.js"></script>
+<noscript><a href="https://liberapay.com/omairqazi/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
 Please note that bs refers to backslide
 
 ![backslide](screenshot.png?raw=true "backslide")
 
 <p align="center">Published for <img src="http://anything.codes/slack-emoji-for-techies/emoji/tux.png" align="top" width="24" /> with :gift_heart: by Snapcrafters</p>
+
+<script src="https://liberapay.com/omairqazi/widgets/receiving.js"></script>
 
 ## Remaining tasks
 
