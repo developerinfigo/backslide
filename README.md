@@ -22,8 +22,6 @@ distributions.</p>
 Find Usage Instructions by running command:
 
     backslide
-    
-<noscript><a href="https://liberapay.com/omairqazi/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 Please note that bs refers to backslide
 
